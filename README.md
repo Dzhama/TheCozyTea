@@ -1,3 +1,3 @@
-# TheCozyTea
+# The Cozy Tea
 ---
-Codecademy Display and positioning project.
+Codecademy Display and Positioning Project.
